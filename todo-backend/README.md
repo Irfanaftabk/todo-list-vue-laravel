@@ -4,7 +4,7 @@ A Laravel-based RESTful API backend for the Todo Application, featuring task man
 
 ## Technology Stack
 
-- Laravel 10.x
+- Laravel 11
 - MySQL 8.0+
 - PHP 8.1+
 

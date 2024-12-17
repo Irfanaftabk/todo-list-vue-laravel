@@ -42,7 +42,7 @@ For detailed deployment instructions, see the [Deployment Guide](deployment-guid
 
 ## Tech Stack
 
-- **Backend**: Laravel 10, MySQL
-- **Frontend**: Vue.js 3 (Composition API), Tailwind CSS
+- **Backend**: Laravel 11, MySQL
+- **Frontend**: Vue.js (Composition API), Tailwind CSS
 - **Components**: PrimeVue
 - **API**: RESTful with proper resource handling
